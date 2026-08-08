@@ -9,7 +9,7 @@
 
 
 body{
-    background:#FFF8E7;
+    background:#BAD797;
     font-weight:400;
 }
 
@@ -19,14 +19,14 @@ body{
     margin:40px auto;
     background:#fff;
     padding:30px;
-    border-radius:10px;
-    box-shadow:0 0 15px rgba(147,5,0,.2);
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(103,6,38,.2);
 }
 
 
 h1{
     text-align:center;
-    color:#930500;
+    color:#670626;
     margin-bottom:20px;
     font-weight:600;
 }
@@ -37,12 +37,12 @@ label{
     margin-top:15px;
     margin-bottom:5px;
     font-weight:500;
-    color:#930500;
+    color:#670626;
 }
 
 
 h2{
-    color:#930500;
+    color:#670626;
     font-size:23px;
     margin:35px 0 20px;
     font-weight:600;
@@ -54,10 +54,10 @@ select,
 textarea{
     width:100%;
     padding:10px 15px;
-    border:2px solid #95B9EA;
+    border:2px solid #BAD797;
     border-radius:50px;
     font-size:15px;
-    background:#FFF8E7;
+    background:#fff;
     outline:none;
     font-weight:400;
 }
@@ -66,8 +66,8 @@ textarea{
 input:focus,
 select:focus,
 textarea:focus{
-    border-color:#930500;
-    box-shadow:0 0 5px rgba(147,5,0,.25);
+    border-color:#670626;
+    box-shadow:0 0 5px rgba(103,6,38,.25);
 }
 
 
@@ -110,22 +110,22 @@ button{
 
 
 button[type="submit"]{
-    background:#930500;
-    color:#FFF8E7;
+    background:#670626;
+    color:#BAD797;
 }
 
 
 button[type="submit"]:hover{
-    background:#720400;
+    background:#4F041D;
 }
 
 
 button[type="reset"]{
-    background:#95B9EA;
-    color:#930500;
+    background:#BAD797;
+    color:#670626;
 }
 
 
 button[type="reset"]:hover{
-    background:#7FA7D8;
+    background:#A5C77D;
 }
